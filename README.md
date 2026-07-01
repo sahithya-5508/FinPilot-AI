@@ -2,9 +2,7 @@
 
 # Run and deploy FinPilot AI
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/95457f44-fe37-4af1-9826-6ebc157464ab
+View the app : https://ai.studio/apps/95457f44-fe37-4af1-9826-6ebc157464ab
 
 ## Run Locally
 
