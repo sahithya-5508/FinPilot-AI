@@ -221,7 +221,7 @@ Chat naturally with the FinPilot AI Copilot for:
 
 ## 📄 License
 
-© 2026 Sahithya P and Team. All rights reserved.
+© 2026 Sahithya P. All rights reserved.
 
 This project was developed for academic, learning, and demonstration purposes.
 
